@@ -1,1 +1,2 @@
 import{m as t,bF as f,b1 as g,bG as m,x as h,f as k,s,v as l,b7 as u,b8 as _,w as i,D as r}from"./index.a116f4aa.js";import{a as v}from"./el-form.657a9b9c.js";import"./error2.e7465711.js";const x=t({__name:"index",setup(d){const e=f(),{loading:a}=g(e);return(n,o)=>{const p=v,c=m;return h((s(),l(p,{"label-position":"top"},null,512)),[[c,k(a)]])}}}),z=t({__name:"index",setup(d){return(e,a)=>{const n=u,o=_;return s(),l(o,{direction:"vertical"},{default:i(()=>[r(n,null,{default:i(()=>[r(x)]),_:1})]),_:1})}}});export{z as default};
+//# sourceMappingURL=index.7274dc42.js.map
