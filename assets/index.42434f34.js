@@ -1,0 +1,1 @@
+import{e as a,aQ as s,aR as e,o as t,m as n,p as o,K as r,aZ as d}from"./index.206778a0.js";const i=a({__name:"index",setup:a=>(a,i)=>{const l=s,u=e;return t(),n(u,{direction:"vertical"},{default:o((()=>[r(l,null,{default:o((()=>[r(d)])),_:1})])),_:1})}});export{i as default};
